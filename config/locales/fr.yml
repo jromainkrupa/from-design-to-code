@@ -1,0 +1,10 @@
+
+fr:
+  hello: "Hello world"
+  movies:
+    list:
+      available: "disponible"
+      search_available_movies_count:
+        zero: "Il n'y a pas de films disponibles"
+        one: "Il y a 1 film disponible"
+        other: "Il y a %{count} films disponibles"

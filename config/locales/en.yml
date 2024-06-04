@@ -1,0 +1,6 @@
+
+en:
+  hello: "Hello world"
+  movies:
+    list:
+      available: "toto"
